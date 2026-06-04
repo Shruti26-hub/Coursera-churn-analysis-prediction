@@ -3,6 +3,14 @@ End-to-end churn analysis and prediction case study for a Coursera-style edtech 
 # 📊 Coursera-Style Churn Analysis & Prediction using Machine Learning
 
 > **An end-to-end Data Analytics and Machine Learning case study designed to identify churn patterns, predict at-risk users, and generate actionable business insights for a Coursera-style EdTech platform.**
+>
+> ## ⭐ Project Highlights
+
+- Built an end-to-end churn prediction pipeline using Python and Scikit-learn.
+- Performed exploratory data analysis and feature engineering.
+- Developed historical and predictive Power BI dashboards.
+- Generated actionable business recommendations for user retention.
+- Implemented risk segmentation and revenue-at-risk analysis using synthetic data.
 
 ---
 
