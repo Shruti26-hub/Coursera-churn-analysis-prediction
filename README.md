@@ -241,20 +241,6 @@ Instead of blanket discounts, focus on:
 
 ---
 
-# 📸 Dashboard Preview
-
-## Historical Churn Dashboard
-<img width="1383" height="790" alt="Historical dashboard " src="https://github.com/user-attachments/assets/01179fc6-1e38-42fb-8e63-6ed43355a483" />
-
-
-
-
-## Predicted Risk Dashboard
-<img width="1380" height="778" alt="predicated dashboard " src="https://github.com/user-attachments/assets/2c50684a-b9d8-4911-9aed-6828eebda4f9" />
-
-
----
-
 # 👩‍💻 Author
 
 **Shruti Gapat**
